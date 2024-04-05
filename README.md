@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<!--<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+-->
 
 ###
 
