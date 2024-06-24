@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-**shoryadixit/shoryadixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://res.cloudinary.com/dgbtlhopd/image/upload/v1716741711/MyImage_yqyrt2.webp"  />
+  <img height="150" src="https://res.cloudinary.com/dgbtlhopd/image/upload/v1716741711/MyImage_yqyrt2.webp" />
 </div>
 
 ###
@@ -24,10 +22,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
