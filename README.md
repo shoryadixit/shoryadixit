@@ -63,8 +63,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-
-###
